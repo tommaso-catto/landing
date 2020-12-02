@@ -1,0 +1,15 @@
+.bannière {
+	background-image: linear-gradient(-225deg,rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 70%), url(../../images/image_fond.png);
+	color: #1F3662;
+	padding:5% 0%;
+	background-size: cover;
+	background-position:center;
+}
+.bannière h1 {
+	font-size:400%;
+}
+.bannière h2 {
+	color:black;
+	margin-bottom: 6%;
+	font-size:200%;
+}

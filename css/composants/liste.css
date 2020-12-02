@@ -1,0 +1,8 @@
+.liste {
+	display:flex;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 130%;
+	flex-direction: column;
+	justify-content: space-between;
+}
+

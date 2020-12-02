@@ -1,0 +1,56 @@
+.cartes {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.carte-avec-ombre {
+	display: flex;
+	width:50%;
+	margin-bottom: 2%;
+	margin-left: 1%;
+	background-color: white;
+	padding: 3%;
+	align-items: center;
+	justify-content: space-around;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 10px;
+	flex-basis: 300px;
+	flex-grow:1;
+}
+
+.carte-avec-ombre img {
+	border-radius:4px;
+	width: 35%;
+}
+
+.carte-avec-ombre h3 {
+	font-size: 150%;
+}
+
+#logo_fb {
+	width: 10%;
+}
+
+.carte-sans-ombre {
+	margin-top:5%;
+	padding-bottom: 25px;
+	border-radius:4px;
+	display: flex;
+	background-color:white;
+	align-items: center;
+	justify-content: space-around;
+	flex-direction: column;
+	flex-basis: 350px;
+}
+.carte-sans-ombre img {
+	border-radius:4px;
+	width: 80%;
+}
+
+.carte-sans-ombre h3 {
+	font-size: 170%;
+}
+	
+	
+

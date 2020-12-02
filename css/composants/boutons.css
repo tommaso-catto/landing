@@ -1,0 +1,12 @@
+
+.btn-bleu {
+	color:rgb(200,200,200);
+	background-color:#1F3662;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-family: 'Oswald', sans-serif;
+}
+.btn-bleu:hover {
+	background-color: rgb(0,0,0);
+	color: rgb(204,85,0);
+}
